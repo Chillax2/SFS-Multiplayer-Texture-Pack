@@ -1,6 +1,6 @@
 {
   "DisplayName": "SFS Multiplayer Texture Pack",
-  "Version": "1.0",
+  "Version": "1.1",
   "Description": "SFS Multiplayer texture pack with flags and colors!",
   "Author": "Chillax 2",
   "ShowIcon": false,

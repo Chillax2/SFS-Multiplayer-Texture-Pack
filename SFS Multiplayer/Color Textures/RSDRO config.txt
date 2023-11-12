@@ -2,7 +2,7 @@
   "colorTex": {
     "textures": [
       {
-        "texture": "SFSMultiplayer1.jpg",
+        "texture": "RSDRO.jpg",
         "ideal": 0.0
       }
     ],
@@ -38,6 +38,6 @@
   "pack_Redstone_Atlas": false,
   "multiple": false,
   "segments": [],
-  "name": "SFSMP1",
+  "name": "RSDRO",
   "hideFlags": "None"
 }
