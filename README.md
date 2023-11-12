@@ -1,4 +1,4 @@
-# SFS-Multiplayer-Texture-Pack
+# SFS Multiplayer Texture Pack!
 ## SFS Multiplayer Texture pack with colors and flags!
 ### Includes the flags of:
 
