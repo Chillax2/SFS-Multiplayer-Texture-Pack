@@ -13,5 +13,3 @@
 **FSA States**
 
 **More soon to come!**
-
-## Reminder that the colors are coming soon sorry
